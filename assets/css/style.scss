@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.to-do{
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 40rem;
+    overflow: scroll;
+    h1{
+        text-align: center;
+        color: rgba(185, 67, 185, 0.799);
+        border-bottom: 1px solid black;
+        
+    }
+    input{
+        margin-top: 1rem;
+        width: 25rem;
+        margin-left: 2.8rem;
+    }
+}
+
+.box{
+    cursor: move;
+    border-radius: 10px;
+    
+}
+
+
